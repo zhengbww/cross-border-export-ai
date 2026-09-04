@@ -3,7 +3,7 @@
 ## 在线演示
 
 通过 Streamlit Cloud 部署：
-https://你的地址.streamlit.app
+https://cross-border-export-ai-nsbyd9sywyhgbbtunpqirw.streamlit.app/
 
 ## 项目简介
 
@@ -94,6 +94,11 @@ streamlit run app.py
 ---
 
 # English Version
+
+## Live Demo
+
+Streamlit Dashboard:
+https://cross-border-export-ai-nsbyd9sywyhgbbtunpqirw.streamlit.app/
 
 ## Project Overview
 
