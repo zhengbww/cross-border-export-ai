@@ -1,0 +1,10 @@
+# Local Python environments
+.venv/
+
+# Jupyter Notebook autosave directories
+.ipynb_checkpoints/
+
+# Python bytecode and caches
+__pycache__/
+**/__pycache__/
+*.pyc
